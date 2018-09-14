@@ -2,6 +2,7 @@
 import pygame
 import sys
 
+
 class Event(object):
 		def __init__(self,screen):
 			pass
