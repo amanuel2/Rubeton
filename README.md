@@ -1,15 +1,15 @@
-#Rubeton
+# Rubeton
 
 
 2D RPG Game made in memory of someone using the pygame library :). 
 
 
-#Images
+# Images
 
 Yet to come ;)
 
 
-#Credits
+# Credits
 --- 
 
 1) Amanuel
