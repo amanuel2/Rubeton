@@ -1,5 +1,5 @@
 #						#
-#   Rubeton MAKEFILE	#		
+#   		Rubeton MAKEFILE		#
 #						#
 
 PLATFORM := $(shell uname)
@@ -9,7 +9,7 @@ run:
 	$(warning  RUNNING GAME)
 	chmod +x ./setup.py
 	./setup.py
-	
+
 
 all : $(run)
 
