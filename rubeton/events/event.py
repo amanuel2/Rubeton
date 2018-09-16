@@ -5,7 +5,7 @@ import kbd.Keyboard
 
 
 class Event(object):
-		def __init__(self,screen):
+		def __init__(self):
 			self.Keyboard = kbd.Keyboard.Keyboard()
 			
 		def run_logic(self):
